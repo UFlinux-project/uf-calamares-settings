@@ -1,0 +1,32 @@
+---
+componentName:   uflinux
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         UFlinux Bullseye
+    shortProductName:    UFlinux
+    version:             11 (bullseye)
+    shortVersion:        11
+    versionedName:       UFlinux 11 (bullseye)
+    shortVersionedName:  UFlinux 11
+    bootloaderEntryName: UFlinux
+    productUrl:          https://uflinux.eu
+
+images:
+    productLogo:         "uflinuxlogo-spaces.svg"
+    productIcon:         "uflinuxlogo-spaces.svg"
+    productWelcome:      "uflinuxdesktop.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#000000"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#000000"
+
+slideshowAPI: 2
