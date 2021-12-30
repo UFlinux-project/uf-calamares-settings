@@ -1,5 +1,5 @@
 Package: uf-calamares-settings
-Version: 1.0
+Version: 1.1
 Architecture: all
 Depends: calamares, cryptsetup, keyutils, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
 Maintainer: UFlinux
